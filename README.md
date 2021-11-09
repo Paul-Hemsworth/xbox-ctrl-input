@@ -1,4 +1,4 @@
-#xbox-ctrl-input
+# xbox-ctrl-input
 ## Purpose
 I made this to better understand how input devices work on Linux systems and how user space applications can use input devices.
 
